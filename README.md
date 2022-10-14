@@ -5,7 +5,9 @@
 
 ## [If you like our EFI you can donate us here](https://www.paypal.com/biz/fund?id=3JLUB8YX33S6C)
 
-Hardware: 
+Monterey 12.3.1
+
+###Hardware: 
 
 Dell Inspiron 7775 All in One PC
 
@@ -25,7 +27,7 @@ USB Ports
 
 
 
-What's Working:
+###What's Working:
 
 
 Wifi
@@ -43,6 +45,6 @@ Brightness Control (Not completly works)
 Webcam
 
 
-What's not working:
+###What's not working:
 
 Sleep/Wake (If Card Reader kext is enabled)
