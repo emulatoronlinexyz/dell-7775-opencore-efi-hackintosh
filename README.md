@@ -3,6 +3,8 @@
 
 ## Created by [EmulatorOnline.xyz](EmulatorOnline.xyz)
 
+## [If you like our EFI you can donate us here](https://www.paypal.com/biz/fund?id=3JLUB8YX33S6C)
+
 Hardware: 
 
 Dell Inspiron 7775 All in One PC
