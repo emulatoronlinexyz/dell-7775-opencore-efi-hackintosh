@@ -36,6 +36,10 @@ Bluetooth
 
 HDMI Out
 
+Audio
+
+Etherhet 
+
 Card Reader (If it's enabled then sleep wont work)
 
 Sleep/Wake
@@ -48,3 +52,5 @@ Webcam
 ### What's not working:
 
 Sleep/Wake (If Card Reader kext is enabled)
+
+Microphone (AppleALC doesnt support mic for AMD systems)
